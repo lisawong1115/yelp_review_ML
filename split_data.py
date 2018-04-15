@@ -1,3 +1,10 @@
+# split_data.py
+# CS 232 final project
+# Team: MLH
+# author: Lisa Huang
+# date: 04/15/18
+# written in Python 2
+
 import json
 
 def splitData(infile, trainFile, testFile, num):

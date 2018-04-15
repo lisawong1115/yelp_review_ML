@@ -1,3 +1,10 @@
+# dataProcessor.py
+# CS 232 final project
+# Team: MLH
+# author: Lisa Huang
+# date: 04/12/18
+# written in Python 2
+
 import json
 import re
 
